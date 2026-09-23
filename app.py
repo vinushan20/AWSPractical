@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 
 app = Flask(__name__)
 
-GITHUB_REPO_URL = "https://github.com/your-username/your-repo"
+GITHUB_REPO_URL = "https://github.com/vinushan20/AWSPractical.git"
 
 
 @app.route("/")
